@@ -15,12 +15,12 @@ At the end of 33 epochs, the trained model reports an accuracy of 42% on the tra
 
 Here are some predictions from the trained model
 
-<img src="images/pred_1.jpg">
+<img src="images/pred_1.JPG">
 
-<img src="images/pred_2.jpg">
+<img src="images/pred_2.JPG">
 
-<img src="images/pred_3.jpg">
+<img src="images/pred_3.JPG">
 
-<img src="images/pred_4.jpg">
+<img src="images/pred_4.JPG">
 
 As you may observe, in some cases the model is performing exceptionally well and in some cases, the performance is just repulsive.
